@@ -21,7 +21,7 @@ This was my **first React project**, and I learned:
 ## **Installation & Setup**  
 ### **1. Clone the Repository**  
 ```sh
-git clone https://github.com/Shailesh-Singh-Bisht/react-todo-app.git
+git clone https://github.com/Shailesh-Singh-Bisht/React-Based-TODO
 cd react-todo-app
 ```
 
